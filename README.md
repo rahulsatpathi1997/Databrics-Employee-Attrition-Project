@@ -1,12 +1,12 @@
 # Employee-Attrition-databrics-Project
 
 <h3>DATABRICK PROJECT USING SPARK SQL</h3>
-<b>Employee Attrition Project Problems Statement:</b>
-Employees are the backbone Organization.
+<b>Employee Attrition Project Problems Statement:</b><br>
+Employees are the backbone of the Organization.<br>
 An organization's performance is heavily based on the quantity of employees.
 
 <b>Challenges that an Organization has to face due to employee attrition are:</b>
-1. Expansive in terms of both money and time to try to new employee
+1. Expansive in terms of both money and time to try to find new employee
 2. Loss of Experienced employees.
 3. Impact on Productivity 
 4. Impact Profile
@@ -18,9 +18,9 @@ An organization's performance is heavily based on the quantity of employees.
 
 
 <h4>KPIs</h4>
-1. Age Analysis- People Leaving fron org what is the age rang?
-2. Department Analysis
-3. Marital Status
-4. Attrition By Education
-5. Attrition by Environment
+1. Age Analysis- People Leaving from org what is the age range?<br>
+2. Department Analysis<br>
+3. Marital Status<br>
+4. Attrition By Education<br>
+5. Attrition by Environment<br>
 6. Other KPI  
