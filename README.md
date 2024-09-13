@@ -29,7 +29,7 @@ An organization's performance is heavily based on the quantity of employees.
 
 
 Dashboard Link
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2765709436459718/3263135117032357/5672377338486289/latest.html
+https://github.com/rahulsatpathi1997/Databrics-Employee-Attrition-Project/blob/main/spark-dashboard.png
 
 Project Link
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2765709436459718/3263135117032357/5672377338486289/latest.html
