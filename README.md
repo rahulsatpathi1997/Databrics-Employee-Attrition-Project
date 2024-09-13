@@ -24,3 +24,12 @@ An organization's performance is heavily based on the quantity of employees.
 4. Attrition By Education<br>
 5. Attrition by Environment<br>
 6. Other KPI  
+
+
+
+
+Dashboard Link
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2765709436459718/3263135117032357/5672377338486289/latest.html
+
+Project Link
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2765709436459718/3263135117032357/5672377338486289/latest.html
